@@ -2,7 +2,7 @@
 
 ## Small app to select color from color drop tool
 
-[!Preview](https://github.com/ComandPromt/ScreenColorPickerLib/blob/main/previews/1.png)
+![Preview](https://github.com/ComandPromt/ScreenColorPickerLib/blob/main/previews/1.png)
 
 [Lib](https://github.com/ComandPromt/ScreenColorPickerLib)
 
